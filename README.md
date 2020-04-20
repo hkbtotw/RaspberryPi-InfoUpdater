@@ -1,5 +1,5 @@
 <h1> RaspberryPi-InfoUpdater </h1>
-<i>Automatic Update of Financial information to be presented in Voila-App</i>
+<i>Automatic Update of Financial information to be presented in Voila-App</i><br />
 
 <b> Updating Process </b>
 <img src=https://github.com/hkbtotw/RaspberryPi-InfoUpdater/blob/master/Process.JPG alt="Demo UI" width="1000"/>
@@ -13,4 +13,4 @@
 
 <b>Raspbeery Pi Prototype Image:<br/></b>
 
-<img src=https://github.com/hkbtotw/RaspberryPi-InfoUpdater/blob/master/RPI_Prototype.JPG alt="Demo UI" width="1000"/>
+<img src=https://github.com/hkbtotw/RaspberryPi-InfoUpdater/blob/master/RPI_Prototype.JPG alt="Prototype" width="1000"/>
