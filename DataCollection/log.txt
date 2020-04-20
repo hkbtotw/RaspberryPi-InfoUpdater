@@ -1,0 +1,42 @@
+/usr/local/lib/python3.7/dist-packages/pandas_datareader/compat/__init__.py:7: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  from pandas.util.testing import assert_frame_equal
+ today :  2020-04-18
+2020-04-18  ==>  19:22:07
+ len :  2
+ lastDate :  2020-04-15
+ date :  2020-04-15  :: 1200
+ len :  2
+ lastDate :  2020-04-15
+Updated
+/usr/local/lib/python3.7/dist-packages/pandas_datareader/compat/__init__.py:7: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  from pandas.util.testing import assert_frame_equal
+ today :  2020-04-18
+2020-04-18  ==>  19:30:07
+ len :  2
+ lastDate :  2020-04-15
+ date :  2020-04-15  :: 1200
+ len :  2
+ lastDate :  2020-04-15
+Updated
+/usr/local/lib/python3.7/dist-packages/pandas_datareader/compat/__init__.py:7: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  from pandas.util.testing import assert_frame_equal
+ today :  2020-04-18
+2020-04-18  ==>  20:00:23
+ len :  2
+ lastDate :  2020-04-15
+ date :  2020-04-15  :: 1200
+ len :  2
+ lastDate :  2020-04-15
+Updated
+/usr/local/lib/python3.7/dist-packages/pandas_datareader/compat/__init__.py:7: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  from pandas.util.testing import assert_frame_equal
+ today :  2020-04-19
+2020-04-19  ==>  20:00:20
+ len :  4
+ lastDate :  2020-04-19
+ date :  2020-04-19  :: 1239.23999
+LED on
+LED off
+ len :  4
+ lastDate :  2020-04-19
+Not Updated

@@ -1,0 +1,23 @@
+/usr/bin/python3: can't open file '/home/pi/Project/DataCollection/DataCollection_v2.pu': [Errno 2] No such file or directory
+/usr/local/lib/python3.7/dist-packages/pandas_datareader/compat/__init__.py:7: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  from pandas.util.testing import assert_frame_equal
+ today :  2020-04-19
+2020-04-19  ==>  10:30:20
+ len :  3
+ lastDate :  2020-04-18
+ date :  2020-04-18  :: 1239.23999
+ len :  3
+ lastDate :  2020-04-18
+Updated
+/usr/local/lib/python3.7/dist-packages/pandas_datareader/compat/__init__.py:7: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  from pandas.util.testing import assert_frame_equal
+ today :  2020-04-20
+2020-04-20  ==>  10:30:07
+ len :  5
+ lastDate :  2020-04-20
+ date :  2020-04-20  :: 1239.23999
+LED on
+LED off
+ len :  5
+ lastDate :  2020-04-20
+Updated at  10:30:07
