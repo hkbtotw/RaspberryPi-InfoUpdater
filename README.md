@@ -13,4 +13,4 @@
 
 <b>Raspbeery Pi Prototype Image:<br/></b>
 
-<img src=https://github.com/hkbtotw/RaspberryPi-InfoUpdater/blob/master/RPI_Prototype.JPG alt="Prototype" width="1000"/>
+<img src=https://github.com/hkbtotw/RaspberryPi-InfoUpdater/blob/master/RPI_Prototype.jpg alt="Prototype" width="1000"/>
